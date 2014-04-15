@@ -60,6 +60,7 @@ form{display:block;min-height:100%;}
 .edit img{max-width:775px;overflow:hidden;}
 /*layout*/
 .wrap{width:1000px;margin:0 auto;}
+.wrapnav{width:1200px;margin:0 auto;}
 /*head*/
 body{padding-top:125px;}
 .head{width:100%;height:73px;border-top:6px solid #0083a1;min-width:1000px;background:#fff;position:fixed;top:0;z-index:199;}
